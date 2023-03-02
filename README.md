@@ -1,3 +1,3 @@
 # Testando comandos do Git
 
-TESTE
+DESCRIÇÃO DO READ ME
